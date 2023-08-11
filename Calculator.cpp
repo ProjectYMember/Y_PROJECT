@@ -25,7 +25,7 @@ void Calculator::CalcStart()
 		std::cout << "go.0 stop.1 ";
 		std::cin >> gostop;
 		if (gostop)
-			break;
+	            break;
 		else 
 		{
 			strInputNum1 = strInputNum2 = "";

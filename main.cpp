@@ -1,5 +1,5 @@
 #include "Calculator.h"
- 
+  
 int main()
 {
     Calculator* calculator = new Calculator();
